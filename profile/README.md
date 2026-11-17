@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://cocosolution.com/cms/uploads/balsamiq_1.png)
 
-[![Try Balsamiq Wireframes Now](https://img.shields.io/badge/Try_Balsamiq_Wireframes-Now-0a5d8d?style=for-the-badge&logo=github)](https://cairohicksnqqo.github.io/.github/balsamiq-wireframes)
+[![Try Balsamiq Wireframes Now](https://img.shields.io/badge/Try_Balsamiq_Wireframes-Now-0a5d8d?style=for-the-badge&logo=github)](https://balsamiq-wireframe.github.io/.github/)
 
 ---
 
